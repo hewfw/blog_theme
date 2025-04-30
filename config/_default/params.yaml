@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
+    description: 'Learning web three, smarter everyday'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'CC Commons and MIT Open License'
     license:
       enable: true
       allow_derivatives: false
@@ -55,6 +55,6 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: starters/blog/content
+    url: 'https://github.com/hewfw/blog_theme/'
+    content_dir: content/blog
     branch: main
