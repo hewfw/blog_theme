@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Hyts New
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hyts New
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hyts
+last_name: New
 
 # Status emoji
 status:
@@ -17,35 +17,24 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: writer and coder
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Web3
+    url: https://discord.gg/UrMCt9QB
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include writing posts and code
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'hytsnew@proton.me'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    url: https://x.com/qwertyisaformat
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -53,7 +42,8 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
+Hi there at Learn Web Three we're building the foundations of this ecosystem and bringing it together to new peaks, you can find (while the organization lift's off) foundational concepts about the technology below this colossal change of our daily lives in how we communicate and exchange ideas.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The ecosystem is still new, the layers are stil being built, brands rise up everyday allowing finance to be decentralized and devoid from previously highly burocratic services.
+
+We aim to share common values and decisions without sacrificing the social aspect
