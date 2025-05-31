@@ -17,6 +17,11 @@ sections:
       filters:
         folders:
           - blog
+            - get-started
+            - project-management
+            - second-brain
+            - teach-courses
+            - web3
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
