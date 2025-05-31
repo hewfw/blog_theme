@@ -17,10 +17,10 @@ sections:
       filters:
         folders:
           - blog
-            - get\-started
-            - project\-management
-            - second\-brain
-            - teach\-courses
+            - get/-started
+            - project/-management
+            - second/-brain
+            - teach/-courses
             - web3
     design:
       spacing:
