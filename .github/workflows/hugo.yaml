@@ -62,7 +62,7 @@ jobs:
 
   # Deploy website to GitHub Pages hosting
   deploy:
-    if: github.repository_owner == 'HugoBlox'
+    if: github.repository_owner == 'hewfw'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
