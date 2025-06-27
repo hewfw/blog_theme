@@ -1,4 +1,10 @@
 .lock
 .sum
+.hugo_build.lock
+go.sum
+public/
+resources/
+hugo_stats.json
+
 
 

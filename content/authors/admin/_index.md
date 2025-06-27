@@ -22,7 +22,7 @@ role: writer and coder
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Web3
-    url: https://discord.gg/UrMCt9QB
+    url: https://discord.gg/UrMCt
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include writing posts and code
