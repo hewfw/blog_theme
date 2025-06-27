@@ -1,5 +1,5 @@
 ---
-title: Web3
+title: Posts
 summary: Welcome to web3
 type: 
 date: 2023-10-24
@@ -28,17 +28,6 @@ sections:
     filters:
       folders:
         - posts
-cascade:
-  target: 
-    path: '{/web3/posts/**}'
 image:
   caption: '[Building blocks](./blocks_blog_01.jpeg)'
 ---
-
-The ecosystem is still new, the layers are stil being built, brands rise up everyday allowing finance to be decentralized and devoid from previously highly burocratic services.
-
-[Smart Contracts]('./smart_contracts/index.md')
-
-[Tokens]('./tokens/index.md')
-
-[Wallets]('./wallets/index.md')
